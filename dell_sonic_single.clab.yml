@@ -1,0 +1,8 @@
+name: dell-sonic-single
+prefix: ""
+
+topology:
+  nodes:
+    dell_sonic:
+      kind: dell_sonic
+      image: vrnetlab/dell_sonic:Enterprise_SONiC_OS_4.5.0_Cloud_Standard
